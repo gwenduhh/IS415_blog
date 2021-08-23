@@ -4,9 +4,9 @@ description: |
   Welcome to our new blog, IS415 Web Blog. We hope you enjoy 
   reading what we have to say!
 author:
-  - name: Nora Jones 
+  - name: Glenda
     url: https://example.com/norajones
-    affiliation: Spacely Sprockets
+    affiliation: Singapore Management University
     affiliation_url: https://example.com/spacelysprokets
 date: 08-16-2021
 output:

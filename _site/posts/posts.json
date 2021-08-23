@@ -5,7 +5,7 @@
     "description": "Welcome to our new blog, IS415 Web Blog. We hope you enjoy \nreading what we have to say!",
     "author": [
       {
-        "name": "Nora Jones",
+        "name": "Glenda",
         "url": "https://example.com/norajones"
       }
     ],
@@ -13,7 +13,7 @@
     "categories": [],
     "contents": "\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-08-16T11:27:34+08:00",
+    "last_modified": "2021-08-23T09:31:27+08:00",
     "input_file": {}
   }
 ]
